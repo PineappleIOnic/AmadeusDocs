@@ -21,3 +21,9 @@ This will output a embed containing:
 * Channel Count
 * Creation Date
 
+{% hint style="warning" %}
+A Guild is what Discord internally refers to Servers as in their API.
+{% endhint %}
+
+
+
