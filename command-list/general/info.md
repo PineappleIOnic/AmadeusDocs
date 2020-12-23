@@ -1,7 +1,5 @@
 # Info
 
-
-
 ### Description
 
 This command outputs various information about the bot. Including some stats, memory usage and system information.

@@ -1,7 +1,5 @@
 # Server Info
 
-
-
 ### Description
 
 This command will output various server information when ran. Including The Guild ID, Owner, Region and User Count.

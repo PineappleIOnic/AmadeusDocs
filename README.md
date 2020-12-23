@@ -4,7 +4,7 @@ description: >-
   fun features while maintaining a focus on speed and uptime.
 ---
 
-# Introduction
+# AmadeusBot
 
 AmadeusBot was a discord bot created by [IOnicisere](https://github.com/pineappleionic) designed to make your life a bit more interesting on your discord server. Introducing games, jokes and moderation tools into your discord server. 
 

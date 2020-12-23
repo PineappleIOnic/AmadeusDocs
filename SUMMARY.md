@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [test](test.md)
-* [AmadeusBot](readme.md)
+* [AmadeusBot](README.md)
 * [Setup](setup.md)
 
 ## COMMAND LIST
