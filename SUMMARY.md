@@ -5,3 +5,5 @@
 
 ## COMMAND LIST
 
+* [test](command-list/test.md)
+
