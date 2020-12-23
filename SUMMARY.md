@@ -1,22 +1,21 @@
-
-* [test](command-list/test.md)
-
 # Table of contents
 
-* [AmadeusBot](README.md)
+* [Introduction](README.md)
+* [test](test.md)
+* [AmadeusBot](readme.md)
 * [Setup](setup.md)
 
 ## COMMAND LIST
 
-* [General](list-of-commands/General/README.md)
-  * [Avatar](list-of-commands/General/avatar.md)
-  * [Base64 Commands](list-of-commands/General/Base64Commands.md)
-  * [Info](list-of-commands/General/Info.md)
-  * [QR Create](list-of-commands/General/QRCreate.md)
-  * [Server Info](list-of-commands/General/ServerInfo.md)
-* [Fun](list-of-commands/fun/README.md)
-  * [Dice](list-of-commands/fun/Dice.md)
-* [NSFW](list-of-commands/NSFW/README.md)
-  * [Rule34](list-of-commands/NSFW/rule34.md)
-  * [Danbooru](list-of-commands/NSFW/danbooru.md)
+* [General](command-list/general/README.md)
+  * [Avatar](command-list/general/avatar.md)
+  * [Base64 Commands](command-list/general/base64-commands.md)
+  * [Info](command-list/general/info.md)
+  * [QR Create](command-list/general/qr-create.md)
+  * [Server Info](command-list/general/server-info.md)
+* [Fun](command-list/fun/README.md)
+  * [Dice](command-list/fun/dice.md)
+* [NSFW](command-list/nsfw/README.md)
+  * [Rule34](command-list/nsfw/rule34.md)
+  * [Danbooru](command-list/nsfw/danbooru.md)
 
