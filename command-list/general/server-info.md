@@ -6,7 +6,7 @@ This command will output various server information when ran. Including The Guil
 
 ### Usages
 
-#### 1 - Fetching a random image from Danbooru
+#### 1 - Display the Server Info
 
 ```text
 !!serverinfo
